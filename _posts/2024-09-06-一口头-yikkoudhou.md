@@ -3,7 +3,7 @@ layout: post
 title: 一口头 yikkoudhou
 tags:
   - <副>
-pinyin: yikkoudhou, iqkheudeu
+pinyin: yikkoudhou, iqkheudeu, iqkhoedoe
 ---
 
 【释义一】只需一口地。                                
@@ -18,5 +18,6 @@ pinyin: yikkoudhou, iqkheudeu
 
 | 拼音方案 | 拼音 |             
 | :---: | :---: |                 
-| 钱乃荣 | yikkoudhou |                 
-| 吴语学堂 | iqkheudeu |                 
+| 钱式 | yikkoudhou |                 
+| 学堂 | iqkheudeu |                 
+| 法吴 | iqkhoedoe |                 

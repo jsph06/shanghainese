@@ -3,7 +3,7 @@ layout: post
 title: 太阳头里 tayhandhouli
 tags:
   - 
-pinyin: tayhandhouli, thayandeuli
+pinyin: tayhandhouli, thayandeuli, thayandoeli
 ---
 
 【释义】太阳底下。                    
@@ -12,5 +12,6 @@ pinyin: tayhandhouli, thayandeuli
 
 | 拼音方案 | 拼音 |             
 | :---: | :---: |                 
-| 钱乃荣 | tayhandhouli |                 
-| 吴语学堂 | thayandeuli |                 
+| 钱式 | tayhandhouli |                 
+| 学堂 | thayandeuli |                 
+| 法吴 | thayandoeli |                 
