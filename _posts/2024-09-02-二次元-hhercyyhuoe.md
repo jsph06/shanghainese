@@ -23,5 +23,5 @@ pinyin: hhercyyhuoe, ghertshyyoe, reltsyyeu
 | 拼音方案 | 拼音 |             
 | :---: | :---: |                 
 | 钱式 | hhercyyhuoe |                 
-| 学堂 | ghertshyyoe |                 
+| 吴语学堂 | ghertshyyoe |                 
 | 法吴 | reltsyyeu |                 

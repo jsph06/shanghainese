@@ -19,5 +19,5 @@ pinyin: yikkoudhou, iqkheudeu, iqkhoedoe
 | 拼音方案 | 拼音 |             
 | :---: | :---: |                 
 | 钱式 | yikkoudhou |                 
-| 学堂 | iqkheudeu |                 
+| 吴语学堂 | iqkheudeu |                 
 | 法吴 | iqkhoedoe |                 
