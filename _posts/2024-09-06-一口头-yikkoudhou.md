@@ -18,6 +18,6 @@ pinyin: yikkoudhou, iqkheudeu, iqkhoedoe
 
 | 拼音方案 | 拼音 |             
 | :---: | :---: |                 
-| 钱式 | yikkoudhou |                 
+| 钱乃荣 | yikkoudhou |                 
 | 吴语学堂 | iqkheudeu |                 
 | 法吴 | iqkhoedoe |                 

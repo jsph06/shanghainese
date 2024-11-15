@@ -12,6 +12,6 @@ pinyin: tayhandhouli, thayandeuli, thayandoeli
 
 | 拼音方案 | 拼音 |             
 | :---: | :---: |                 
-| 钱式 | tayhandhouli |                 
+| 钱乃荣 | tayhandhouli |                 
 | 吴语学堂 | thayandeuli |                 
 | 法吴 | thayandoeli |                 
